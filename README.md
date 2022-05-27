@@ -6,7 +6,7 @@ This program is header only.
 You can just use all of integral solver scheme by just including.
 
 ```c++
-    #include <IntegralSolver.hpp>
+    #include "IntegralSolver.hpp"
 ```
 
 Let integral you want to solve be like this below
